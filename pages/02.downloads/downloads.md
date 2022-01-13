@@ -5,3 +5,5 @@ downloads:
 ---
 
 # Downloads
+
+[downloads layout="downloads-folders" /]

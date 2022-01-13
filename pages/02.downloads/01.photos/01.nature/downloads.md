@@ -7,4 +7,6 @@ downloads:
 
 # Nature Photos
 
+[downloads/]
+
 Source: [unsplash](https://unsplash.com/)

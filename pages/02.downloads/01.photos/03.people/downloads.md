@@ -7,4 +7,6 @@ downloads:
 
 # People in Photos
 
+[downloads/]
+
 Source: [unsplash](https://unsplash.com/)
