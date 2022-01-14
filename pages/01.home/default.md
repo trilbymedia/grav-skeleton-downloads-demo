@@ -10,4 +10,4 @@ For more information visit [Downloads Pro website](https://getgrav.org/premium/d
 
 ### Embedded Downloads
 
-[downloads route="/downloads" layout="downloads"/]
+[downloads route="/downloads" layout="list-folders"/]
