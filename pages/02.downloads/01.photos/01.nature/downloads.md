@@ -7,6 +7,8 @@ downloads:
 
 # Nature Photos
 
-[downloads/]
+[downloads /]
 
-Source: [unsplash](https://unsplash.com/)
+[div style="margin-top: 2rem; font-size: 80%; text-align: right; font-style: italic;"]
+Source: [unsplash](https://unsplash.com/?target=_blank)
+[/div]
