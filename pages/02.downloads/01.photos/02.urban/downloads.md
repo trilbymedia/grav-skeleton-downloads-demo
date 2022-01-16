@@ -1,8 +1,17 @@
 ---
 menu: Urban
-title: Urban Photos
+title: 'Urban Photos'
 downloads:
-  include_all: true
+    include_all: true
+    info:
+        -
+            file: harold-wainwright-Bqip9io1wgg-unsplash.jpg
+            enabled: true
+            name: null
+            featured: true
+            download_name: null
+            access: null
+            version: null
 ---
 
 # Urban Photos

@@ -1,8 +1,17 @@
 ---
 menu: People
-title: People in Photos
+title: 'People in Photos'
 downloads:
-  include_all: true
+    include_all: true
+    info:
+        -
+            file: windows-wpIYy2lZ04s-unsplash.jpg
+            enabled: true
+            name: 'Custom name'
+            featured: false
+            download_name: null
+            access: null
+            version: 1.1.0
 ---
 
 # People in Photos
