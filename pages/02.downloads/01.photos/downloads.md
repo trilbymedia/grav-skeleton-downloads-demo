@@ -1,10 +1,11 @@
 ---
 title: Photos
 downloads:
-  layout: 'list-folders'
-  include_all: true
-  options:
-    show_version: false
+    include_all: true
+    layout: 'list-folders'
+    options:
+        show_version: false
+        hot: 20
 ---
 
 # Photos
