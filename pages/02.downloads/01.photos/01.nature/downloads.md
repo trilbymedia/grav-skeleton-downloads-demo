@@ -1,9 +1,18 @@
 ---
 menu: Nature
-title: Nature Photos
+title: 'Nature Photos'
 downloads:
-  include_all: true
-  layout: 'grid-files'
+    include_all: true
+    layout: grid-files
+    info:
+        -
+            file: eberhard-grossgasteiger-WttoxjW2XBw-unsplash.jpg
+            enabled: true
+            name: null
+            featured: true
+            download_name: null
+            access: null
+            version: null
 ---
 
 # Nature Photos
