@@ -3,6 +3,7 @@ menu: Urban
 title: 'Urban Photos'
 downloads:
     include_all: true
+    layout: 'list'
     info:
         -
             file: harold-wainwright-Bqip9io1wgg-unsplash.jpg

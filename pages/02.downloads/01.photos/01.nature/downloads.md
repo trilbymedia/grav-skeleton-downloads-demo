@@ -3,7 +3,7 @@ menu: Nature
 title: Nature Photos
 downloads:
   include_all: true
-  layout: 'list-files'
+  layout: 'list'
 ---
 
 # Nature Photos

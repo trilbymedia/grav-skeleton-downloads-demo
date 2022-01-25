@@ -3,6 +3,7 @@ menu: People
 title: 'People in Photos'
 downloads:
     include_all: true
+    layout: 'list'
     info:
         -
             file: windows-wpIYy2lZ04s-unsplash.jpg
