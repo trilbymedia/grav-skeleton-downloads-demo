@@ -53,6 +53,8 @@ This layout renders a button with a customizable title that can be clicked to do
 [download filename="harold-wainwright-Bqip9io1wgg-unsplash.jpg" route="/downloads/photos/urban" title="Download Urban Photo" layout="button" /]
 [download filename="/downloads/photos/people/windows-wpIYy2lZ04s-unsplash.jpg" title="Download People Photo" layout="button" /]
 
+! The file value has been specified in 3 different ways, they are all equivalent.
+
 ### Card Layout
 [div class="d-flex"]
 [div style="flex-shrink: 0;margin-right: 1rem;"]
