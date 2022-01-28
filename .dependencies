@@ -3,14 +3,6 @@ git:
         url: https://github.com/getgrav/grav-plugin-admin
         path: user/plugins/admin
         branch: master
-    form:
-        url: https://github.com/getgrav/grav-plugin-form
-        path: user/plugins/form
-        branch: master
-    login:
-        url: https://github.com/getgrav/grav-plugin-login
-        path: user/plugins/login
-        branch: master
     email:
         url: https://github.com/getgrav/grav-plugin-email
         path: user/plugins/email
@@ -19,22 +11,34 @@ git:
         url: https://github.com/getgrav/grav-plugin-error
         path: user/plugins/error
         branch: master
-    problems:
-        url: https://github.com/getgrav/grav-plugin-problems
-        path: user/plugins/problems
-        branch: master
     flex-objects:
           url: https://github.com/trilbymedia/grav-plugin-flex-objects
           path: user/plugins/flex-objects
           branch: master
-    breadcrumbs:
-        url: https://github.com/getgrav/grav-plugin-breadcrumbs
-        path: user/plugins/breadcrumbs
+    form:
+        url: https://github.com/getgrav/grav-plugin-form
+        path: user/plugins/form
         branch: master
-    downloads:
-          url: https://github.com/trilbymedia/grav-plugin-downloads
-          path: user/plugins/downloads
-          branch: master
+    login:
+        url: https://github.com/getgrav/grav-plugin-login
+        path: user/plugins/login
+        branch: master
+    markdown-notices:
+        url: https://github.com/getgrav/grav-plugin-markdown-notices
+        path: user/plugins/markdown-notices
+        branch: master
+    page-toc:
+        url: https://github.com/trilbymedia/grav-plugin-page-toc
+        path: user/plugins/page-toc
+        branch: master
+    prism-highlight:
+        url: https://github.com/trilbymedia/grav-plugin-prism-highlight
+        path: user/plugins/prism-highlight
+        branch: master
+    problems:
+        url: https://github.com/getgrav/grav-plugin-problems
+        path: user/plugins/problems
+        branch: master
     shortcode-core:
           url: https://github.com/getgrav/grav-plugin-shortcode-core
           path: user/plugins/shortcode-core
@@ -48,14 +52,6 @@ links:
         src: grav-plugin-admin
         path: user/plugins/admin
         scm: github
-    form:
-        src: grav-plugin-form
-        path: user/plugins/form
-        scm: github
-    login:
-        src: grav-plugin-login
-        path: user/plugins/login
-        scm: github
     email:
         src: grav-plugin-email
         path: user/plugins/email
@@ -64,21 +60,33 @@ links:
         src: grav-plugin-error
         path: user/plugins/error
         scm: github
-    problems:
-        src: grav-plugin-problems
-        path: user/plugins/problems
-        scm: github
     flex-objects:
         src: grav-plugin-flex-objects
         path: user/plugins/flex-objects
         scm: github
-    breadcrumbs:
-        src: grav-plugin-breadcrumbs
-        path: user/plugins/breadcrumbs
+    form:
+        src: grav-plugin-form
+        path: user/plugins/form
         scm: github
-    downloads:
-        src: grav-plugin-downloads
-        path: user/plugins/downloads
+    login:
+        src: grav-plugin-login
+        path: user/plugins/login
+        scm: github
+    markdown-notices:
+        src: grav-plugin-markdown-notices
+        path: user/plugins/markdown-notices
+        scm: github
+    page-toc:
+        src: grav-plugin-page-toc
+        path: user/plugins/page-toc
+        scm: github
+    prism-highlight:
+        src: grav-plugin-prism-highlight
+        path: user/plugins/prism-highlight
+        scm: github
+    problems:
+        src: grav-plugin-problems
+        path: user/plugins/problems
         scm: github
     shortcode-core:
         src: grav-plugin-shortcode-core
