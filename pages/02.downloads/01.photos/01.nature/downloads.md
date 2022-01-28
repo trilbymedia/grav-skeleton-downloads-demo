@@ -3,7 +3,6 @@ menu: Nature
 title: 'Nature Photos'
 downloads:
     include_all: true
-    layout: grid
     info:
         -
             file: eberhard-grossgasteiger-WttoxjW2XBw-unsplash.jpg

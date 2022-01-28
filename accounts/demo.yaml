@@ -1,0 +1,12 @@
+state: enabled
+email: demo@getgrav.org
+fullname: 'Demo User'
+language: en
+content_editor: default
+twofa_enabled: false
+twofa_secret: A2IXZ64R6FL2W5LTQUSXY4IDMXQKP63S
+avatar: {  }
+hashed_password: $2y$10$x4QTdx03MJnOEKhQE/VVTORzCy5m4MbfX7BNKOa2ubSCQ6bLCA0V.
+access:
+  site:
+    login: true

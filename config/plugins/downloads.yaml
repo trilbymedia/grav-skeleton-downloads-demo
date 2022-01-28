@@ -1,0 +1,26 @@
+enabled: true
+built_in_css: true
+defaults:
+  layout: list
+  inherit: true
+  include_all: false
+  path: self@
+  order:
+    by: default
+    dir: asc
+  options:
+    hot: 0
+    new: 7
+    show_icon: true
+    show_version: true
+    show_size: true
+    show_modified: true
+    show_downloads: true
+    show_button: true
+    show_hot: true
+    show_new: true
+    show_featured: true
+header:
+  downloads:
+    layout: list
+    inherit: true

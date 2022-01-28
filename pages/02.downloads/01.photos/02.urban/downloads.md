@@ -3,7 +3,6 @@ menu: Urban
 title: 'Urban Photos'
 downloads:
     include_all: true
-    layout: 'list'
     info:
         -
             file: harold-wainwright-Bqip9io1wgg-unsplash.jpg
@@ -12,6 +11,14 @@ downloads:
             featured: true
             download_name: null
             access: null
+            version: null
+        -
+            file: lawless-capture-CWxzgiBUFb0-unsplash.jpg
+            enabled: true
+            name: 'lawless-capture (protected example)'
+            featured: false
+            download_name: null
+            access: site.login
             version: null
 ---
 

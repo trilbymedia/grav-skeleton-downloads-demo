@@ -2,7 +2,7 @@
 title: Photos
 downloads:
     include_all: true
-    layout: 'list-folders'
+    layout: 'grid'
     options:
         show_version: false
         hot: 20
