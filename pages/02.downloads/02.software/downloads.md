@@ -20,9 +20,9 @@ downloads:
             access: null
             version: 1.7.28
         -
-            file: node-v16.13.2.pkg
+            file: mars-rover-manual-v5.3.7.tar.gz
             enabled: true
-            name: 'NodeJS for Mac (64-bit / arm64)'
+            name: null
             featured: false
             download_name: null
             access: null
@@ -35,6 +35,7 @@ downloads:
             download_name: null
             access: null
             version: 16.13.2
+    layout: list
 ---
 
 # Software
