@@ -41,3 +41,5 @@ downloads:
       access: null
       version: null
 [/prism]
+
+!!! This **page** is protected and requires `site.login` permissions to be reached. The page also sets the `grid` layout for its assets and overrides `file_example_MP3_1MG.mp3` to mark the asset as **featured**.

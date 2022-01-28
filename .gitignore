@@ -21,3 +21,4 @@ Thumbs.db
 
 # phpstorm
 .idea/*
+/env/
