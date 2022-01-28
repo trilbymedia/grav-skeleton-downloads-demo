@@ -1,8 +1,6 @@
 ---
 title: Home
 body_classes: 'title-center title-h1h2'
-downloads:
-    enabled: false
 ---
 
 # Downloads Pro
@@ -28,7 +26,9 @@ Shortcodes in Downloads Pro serve an important role and provide a powerful mecha
 For example, to embed the downloads as we see them in the dedicated [Downloads](/downloads) page, we can use the [raw]`[downloads /]`[/raw] shortcode with the layout `list-folders`.
 
 [prism classes="language-bbcode"]
+[raw]
 [downloads route="/downloads" layout="list-folders" /]
+[/raw]
 [/prism]
 
 [downloads route="/downloads" layout="list-folders"]
@@ -41,9 +41,11 @@ For example, to embed the downloads as we see them in the dedicated [Downloads](
 This layout renders a button with a customizable title that can be clicked to download the asset. Because it renders as an `<A>` tag, this particular layout can be also used inline with your content, if needed.
 
 [prism classes="language-bbcode"]
+[raw]
 [download="/downloads/photos/nature/miroslav-skopek-4c82fCful4c-unsplash.jpg" title="Download Nature Photo" layout="button" /]
 [download filename="harold-wainwright-Bqip9io1wgg-unsplash.jpg" route="/downloads/photos/urban" title="Download Urban Photo" layout="button" /]
 [download filename="/downloads/photos/people/windows-wpIYy2lZ04s-unsplash.jpg" title="Download People Photo" layout="button" /]
+[/raw]
 [/prism]
 
 [div style="display: flex;justify-content: space-between;"]
@@ -64,7 +66,9 @@ The `card` layout is a great way to present a download in a modern and appealing
 Adding a card to your content can be done through the `download` shortcode, as you can see from the sample below:
 
 [prism classes="language-bbcode"]
+[raw]
 [download filename="/downloads/photos/nature/miroslav-skopek-4c82fCful4c-unsplash.jpg" layout="card" width="300" /]
+[/raw]
 [/prism]
 [/div]
 [/div]
@@ -79,7 +83,9 @@ Finally, you can also embed a full list of downloads. *Downloads Pro* provides 2
 An example of a grid layout in use. Which is a replica of the [Photos / Urban](/photos/urban) section of this skeleton.
 
 [prism classes="language-bbcode"]
+[raw]
 [downloads route="/downloads/photos/urban" layout="grid-files" width="300" /]
+[/raw]
 [/prism]
 
 [downloads route="/downloads/photos/urban" layout="grid-files" width="300" /]
@@ -89,7 +95,9 @@ An example of a grid layout in use. Which is a replica of the [Photos / Urban](/
 Now let's look at the same Grid example above, this time by using the `list-files` layout.
 
 [prism classes="language-bbcode"]
+[raw]
 [downloads route="/downloads/photos/urban" layout="list-files" width="300" /]
+[/raw]
 [/prism]
 
 [downloads route="/downloads/photos/urban" layout="list-files" width="300" /]

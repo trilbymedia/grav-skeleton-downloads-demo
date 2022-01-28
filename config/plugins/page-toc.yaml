@@ -1,0 +1,3 @@
+enabled: true
+anchors:
+  slug_maxlen: 35
