@@ -11,11 +11,11 @@ This is a demo site for [Downloads Pro](https://getgrav.org/premium/downloads-pr
 [div class="text-center"]
 [[fa icon="globe" /] Website](https://getgrav.org/premium/downloads-pro?target=_blank&classes=btn) 
 [[fa icon="book" /] Documentation](https://getgrav.org/premium/downloads-pro/docs?target=_blank&classes=btn)
-[[fa icon="github" /] Get This Demo](https://github.com/trilbymedia/grav-skeleton-downloads?target=_blank&classes=btn)
+[[fa icon="github" /] Get This Demo](https://github.com/trilbymedia/grav-skeleton-downloads-demo?target=_blank&classes=btn)
 [/div]
 
 ## Structure of the Site
-This [skeleton [fa icon="external-link" /]](https://github.com/trilbymedia/grav-skeleton-downloads?target=_blank) features a [Downloads](/downloads) page that we organized in a nested structure, to showcase how you can organize different categories in different Grav pages.
+This [skeleton [fa icon="external-link" /]](https://github.com/trilbymedia/grav-skeleton-downloads-demo?target=_blank) features a [Downloads](/downloads) page that we organized in a nested structure, to showcase how you can organize different categories in different Grav pages.
 
 To demonstrate the powerful access level integration with Grav, we created a **Protected** category page that will require a proper authenticated user in order to be accessed. Additionally, we also included individual _protected_ assets in areas that are public. These assets will require user authentication. 
 
