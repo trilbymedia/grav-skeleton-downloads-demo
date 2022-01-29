@@ -10,7 +10,7 @@ This skeleton serves as a demo for [Downloads Pro Grav Premium Plugin](https://g
 
 2. Unzip the `grav-v*.zip` file.
 
-3. Download and unzip the `grav-skeleton-downloads.zip` Skeleton package and unzip it.
+3. Download and unzip the `grav-skeleton-downloads-demo.zip` Skeleton package and unzip it.
 
 4. Replace the default `user/` folder with this skeleton's extracted folder, and rename it to `user/`
 
@@ -33,10 +33,10 @@ This skeleton serves as a demo for [Downloads Pro Grav Premium Plugin](https://g
     ```shell
     bin/grav install
     ```
-11. Finally you can install **Downloads Pro**, by running this command:
+11. Finally, you can install **Downloads Pro**, by running this command:
   
     ```shell
-    bin/gpm install downloads 
+    bin/gpm install downloads-pro
     ``` 
 
 Your site should have everything it needs to replicate the **Downloads Pro** skeleton site.  Please compare your local copy to the [Downloads Pro Demo Site](https://demo.getgrav.org/downloads-pro).
