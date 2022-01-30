@@ -30,7 +30,7 @@ downloads:
 Source: [unsplash](https://unsplash.com/?target=_blank)
 [/div]
 
-## How does the frontmatter look?
+## How does the frontmatter look like?
 
 [prism classes="language-yaml"]
 menu: Urban

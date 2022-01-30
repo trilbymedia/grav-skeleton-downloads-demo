@@ -21,7 +21,7 @@ downloads:
 
 [downloads /]
 
-## How does the frontmatter look?
+## How does the frontmatter look like?
 
 [prism classes="language-yaml"]
 menu: Protected

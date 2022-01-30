@@ -8,11 +8,20 @@ downloads:
         hot: 20
 ---
 
-# Photos
+  # Downloads
+  Dictum hendrerit curae faucibus volute
+  
+  [downloads layout="grid" /]
+  
+  ## Instructions
+  Scelerisque vestibulum ornare himenaeos a 
+  hendrerit eros quisque, urna ultrices id 
+  pellentesque nullam ultricies proin.
+  
+  Orci efficitur nunc parturient interdum.
 
-[downloads /]
 
-## How does the frontmatter look?
+## How does the frontmatter look like?
 
 [prism classes="language-yaml"]
 title: Photos
