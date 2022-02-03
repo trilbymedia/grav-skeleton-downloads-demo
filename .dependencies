@@ -43,6 +43,14 @@ git:
           url: https://github.com/getgrav/grav-plugin-shortcode-core
           path: user/plugins/shortcode-core
           branch: master
+    prism-highlight:
+          url: https://github.com/getgrav/grav-plugin-prism-highlight
+          path: user/plugins/prism-highlight
+          branch: master
+    downloads-pro:
+          url: https://github.com/getgrav/grav-plugin-downloads-pro
+          path: user/plugins/downloads-pro
+          branch: master
     quark:
         url: https://github.com/getgrav/grav-theme-quark
         path: user/themes/quark
@@ -91,6 +99,14 @@ links:
     shortcode-core:
         src: grav-plugin-shortcode-core
         path: user/plugins/shortcode-core
+        scm: github
+    prism-highlight:
+        src: grav-plugin-prism-highlight
+        path: user/plugins/prism-highlight
+        scm: github
+    downloads-pro:
+        src: grav-plugin-downloads-pro
+        path: user/plugins/downloads-pro
         scm: github
     quark:
         src: grav-theme-quark
